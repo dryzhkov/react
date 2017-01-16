@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "0": {
+      "message": "Hi there, how are you?",
+      "date": "Sat, 07 Jan 22:35:00 PST",
+      "author": "Dima Ryzhkov",
+      "profilePic": "http://lh3.googleusercontent.com/-obykB7Bqjws/AAAAAAAAAAI/AAAAAAAAAAA/AKB_U8s1i-R9k7fwfhtmljCLR9pLEFFzWw/s192-c-mo/photo.jpg"
+    },
+    "1": {
+      "message": "Hey, I am great. How about you?",
+      "date": "Sat, 07 Jan 22:36:00 PST",
+      "author": "Roger Lee",
+      "profilePic": "https://lh4.googleusercontent.com/-xGxA4yUusTk/AAAAAAAAAAI/AAAAAAAAAAA/fQI8GNglGWg/w80-h80/photo.jpg"
+    }
+  }
+}
